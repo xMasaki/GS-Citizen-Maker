@@ -1,5 +1,8 @@
 # AcessaCidade
 
+## Equipe
+- Lucas Masaki Nagahama | RM553084
+
 ## Resumo
 > **FIAP · 4ESPS · 2º Global Solution 2026 · CitizenTech**
 >
