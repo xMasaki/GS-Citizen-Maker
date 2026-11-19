@@ -4,10 +4,9 @@
 - Lucas Masaki Nagahama | RM553084
 
 ## Resumo
-> **FIAP · 4ESPS · 2º Global Solution 2026 · CitizenTech**
->
-> Plataforma web para o cidadão registrar barreiras de acessibilidade nas calçadas (buracos, pisos
-> quebrados, rampas irregulares, obstáculos), com triagem automática inicial da foto.
+**FIAP · 4ESPS · 2º Global Solution 2026 · CitizenTech**
+
+**AcessaCidade** é uma plataforma web para o cidadão registrar barreiras de acessibilidade nas calçadas (buracos, pisos quebrados, rampas irregulares, obstáculos), com triagem automática inicial da foto.
 
 ## Project-Based Maker Lab
 
